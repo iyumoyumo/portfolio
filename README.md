@@ -27,10 +27,10 @@ Laravel + React + MySQL で作成した売上管理アプリです。
 - iyumoyumo/sales-backend（Laravel）
 
 ## ローカルでの起動方法
-npm run dev
-php artisan serve
-xamppでApacheとMysql start
-http://localhost:5173
+- npm run dev
+- php artisan serve
+- xamppでApacheとMysql start
+- http://localhost:5173
 
 ## 工夫した点
 （あなたの強みを書く）
