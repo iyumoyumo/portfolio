@@ -19,18 +19,22 @@ Laravel + React + MySQL で作成した売上管理アプリです。
 ## 機能一覧
 - 売上登録
 - 売上一覧
-
 - API 連携
+- 売上比較(個人別・週・月・年）グラフ表示
+- 売上比較（全体・週・月・年）グラフ表示
 
 ## リポジトリ構成
 - frontend（React）
 - backend（Laravel）
 
 ## ローカルでの起動方法
-（手順）
+npm run dev
+php artisan serve
+xamppでApacheとMysql start
+http://localhost:5173
 
 ## 工夫した点
 （あなたの強みを書く）
 
 ## 今後の改善点
-（成長意欲を見せる）
+railway+vercelで公開用のurlを作成しようとしたが仕様変更があり未実現。
