@@ -1,4 +1,4 @@
-# Sales Management App (Portfolio)
+# 売上管理アプリ (Portfolio)
 
 ## 概要
 Laravel + React + MySQL で作成した売上管理アプリです。
