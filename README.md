@@ -10,7 +10,7 @@ Laravel + React + MySQL で作成した売上管理アプリです。
 <img width="1903" height="895" alt="Screenshot 2026-06-18 134516" src="https://github.com/user-attachments/assets/69a1f830-0ee4-45a9-967e-bd2df6c66911" />
 <img width="1903" height="891" alt="Screenshot 2026-06-18 134544" src="https://github.com/user-attachments/assets/99fa0b4b-4fbb-49a3-b35a-d90c1b400ddf" />
 <img width="1886" height="862" alt="Screenshot 2026-06-18 134559" src="https://github.com/user-attachments/assets/a9d83d76-2701-46e2-88ca-5d81a3997581" />
-<img width="1635" height="875" alt="Screenshot 2026-06-18 134405" src="https://github.com/user-attachments/assets/ddafb289-26be-45e7-861c-82c4fd61f9eb" />
+<img width="1889" height="866" alt="Screenshot 2026-06-18 134445" src="https://github.com/user-attachments/assets/15e8cafe-6cc1-4178-916a-be0df5a8b64d" />
 <img width="1883" height="890" alt="Screenshot 2026-06-18 134531" src="https://github.com/user-attachments/assets/f755cb13-4e59-4948-92ca-7b5b00f42317" />
 
 
