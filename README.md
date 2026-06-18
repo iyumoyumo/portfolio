@@ -5,12 +5,16 @@ Laravel + React + MySQL で作成した売上管理アプリです。
 
 ## 画面キャプチャ
 （画像）
-<img width="1680" height="875" alt="Screenshot 2026-06-17 140230" src="https://github.com/user-attachments/assets/b4e72946-030e-4b99-b582-55ae43402c87" />
-<img width="1675" height="895" alt="Screenshot 2026-06-17 140208" src="https://github.com/user-attachments/assets/031fb642-7f9e-48a8-901b-543aa8469acb" />
-<img width="1812" height="878" alt="Screenshot 2026-06-17 140252" src="https://github.com/user-attachments/assets/d7405a73-c0d1-4255-9bb3-fc697dad406c" />
-<img width="1716" height="875" alt="Screenshot 2026-06-17 140240" src="https://github.com/user-attachments/assets/3fb589d9-a1ca-4b8f-bdfa-788b647c61a8" />
+<img width="1901" height="892" alt="Screenshot 2026-06-18 134456" src="https://github.com/user-attachments/assets/30d67cc0-fd23-49ac-b933-46783bb9a772" />
+<img width="1904" height="938" alt="Screenshot 2026-06-18 134516" src="https://github.com/user-attachments/assets/70bd00ba-0e1c-4c96-b290-5b1d7fb8936c" />
+ <img width="1888" height="935" alt="Screenshot 2026-06-18 134506" src="https://github.com/user-attachments/assets/0d251f06-0fbe-4610-a28f-a547b63a2d91" />
+ <img width="1888" height="930" alt="Screenshot 2026-06-18 134531" src="https://github.com/user-attachments/assets/e64dfece-d308-4277-b9e6-09282782e8dc" />
+<img width="1903" height="920" alt="Screenshot 2026-06-18 134544" src="https://github.com/user-attachments/assets/f5fa7cfb-09a9-4c7c-aae8-2e542608734b" />
+<img width="1904" height="904" alt="Screenshot 2026-06-18 134559" src="https://github.com/user-attachments/assets/ad122991-f97c-4f77-b9e4-c8c860227ded" />
+<img width="1892" height="930" alt="Screenshot 2026-06-18 134433" src="https://github.com/user-attachments/assets/d694f4e1-1b02-4eb0-b529-56b22befbea9" />
+<img width="1890" height="918" alt="Screenshot 2026-06-18 134445" src="https://github.com/user-attachments/assets/8f99c1cb-85c6-440d-972e-8dbb2e695f2b" />
 
-## 使用技術
+##使用技術
 - Laravel
 - React
 - MySQL
