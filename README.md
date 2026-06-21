@@ -32,8 +32,6 @@ Laravel + React + MySQL で作成した売上管理アプリです。
 - iyumoyumo/sales-frontend（React）
 - iyumoyumo/sales-backend（Laravel）
 
-## 公開用Url
-- https://sales-frontend-three.vercel.app/
  
 ## 工夫した点
 売上管理アプリを作成しました。社員毎に売上を登録、売上を週、月、年で集計して下部でグラフ表示が出来るようにしています。
